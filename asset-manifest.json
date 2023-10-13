@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cisco-community-idea/static/css/main.01c145e6.css",
+    "main.js": "/cisco-community-idea/static/js/main.c7f9cdf0.js",
+    "index.html": "/cisco-community-idea/index.html",
+    "main.01c145e6.css.map": "/cisco-community-idea/static/css/main.01c145e6.css.map",
+    "main.c7f9cdf0.js.map": "/cisco-community-idea/static/js/main.c7f9cdf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01c145e6.css",
+    "static/js/main.c7f9cdf0.js"
+  ]
+}
